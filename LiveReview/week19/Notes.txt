@@ -1,0 +1,25 @@
+
+   What is collection framework?
+     Classes,İnterfaces which are extended or implemented in such way to build
+  this connection
+
+  Why do wee need collection framework?
+    to organize our data
+
+ İnterview perspective:
+         * What is the difference between .....(List) and....(Set ?)
+         *How did you use .......(LinkedList) in your framework?
+         *We need to know collection faramework verbally?
+
+ Usage perspective:
+      *ArrayList
+      *list
+      *Set
+      *Map
+      *Map , List of Map
+      * Arrays
+
+  Benefits: growable,different types of Data,oop Concepts-Polymorphism
+
+  sync: running slow ( vector ) ---> Thread - safe
+  not sync: fast (arraylist)

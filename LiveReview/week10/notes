@@ -1,0 +1,59 @@
+
+ Exp 1: we will create a method that will return count of even numbers, and parameters is an int Array
+
+  Exp 2= we will create a method that will return the difference  between max and min Array
+
+
+Ex 3:This example was implemented to show that we can call a method from other methods
+
+Exp 4:  Can I use a return of a method inside other method as of it's parameter
+
+??  methodone(String str,int x) ?? public static int methodTwo(){}
+
+
+PIQ: What is Method Overloading?
+
+    str.substring(int beginningIndex)
+    str.substring(int beginningIndex, int endingIndex)
+
+    rules: method has to have same name, with different parameters(number of parameters)
+
+
+
+
+
+
+
+
+
+
+
+
+  Wrapper Class:
+
+  int,double,char,short....primitive
+
+  Integer X=new Integer(9);  ------>value is just 9
+
+  X is called object reference
+
+  9 is the value of that object
+
+
+  Since X is object reference;  I can reach methods of these Wrapper Classes
+
+  Auto-boxing / Unboxing
+
+  İf JAVA compiler makes your primitive data type to corresponding object Wrapper class : Auto-boxing
+
+  if it is opposite way it is called Unboxing
+
+
+  ArrayList: Can I put primitive inside ArrayList? NO NO NO
+
+
+  Data Structures:
+
+  Arrays: Flexible size however it is slower comparing to Arrays
+
+  Biggest advantages comes from

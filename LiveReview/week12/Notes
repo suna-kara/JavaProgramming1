@@ -1,0 +1,115 @@
+
+      methods for creating function
+
+      Access Modifier specifier returnType methodName(){
+           statement
+      }
+
+
+   Access Modifiers:
+       * public ---> allows to reach from every other class or packages
+       *private----> only inside the same class you can reach
+       *default-----> OOP
+       *protected----> OOP
+
+  specifier : Static keyword, Final
+
+  returnType : void or any Data type
+
+
+  PIQ: What are the differences between Constructor and Methods:
+
+      Constructor: special method,it is a MUST, it is used the create and(maybe)
+      initializing  fiels of the object
+
+             Access -Modifier ClassName(parameter){
+
+             statement
+
+             }
+
+
+   Object: new ClassName();----> we are calling the constructor
+
+   instance(multipl copies) variables or methods: each obj has it's own copy
+
+   static(one copy): all the obj they have the same copy and share it
+
+
+
+   asString()
+
+   ************************************
+
+   PIQ:
+
+   this.   ------> İnstance obj values or methods
+   this() ----> used for calling the constructor
+
+   =========================================
+
+   static methods can be called with calssname
+   --Can I call static methods withobjects? yes
+
+
+Static Methods VS İnstance Methods
+  1. İnstance method can be only called by obj name
+  2. Static methods CAN NOT reach non-static fields(attributes)
+
+  ====================================================
+
+  Static Blocks / Static İnitializer Block
+
+  -----> code in the static block runs before everything else when loaded to the memory by Classloader
+   we use it to initialize static fields
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
